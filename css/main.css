@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+a {
+  text-decoration: none;
+  color: #7b7b7b; }
+
+/*Header*/
+.header {
+  margin: 20px 20px; }
+
+.header i {
+  font-size: 30px; }
+
+.container__logo {
+  display: block;
+  width: 200px; }
+
+.container__logo img {
+  width: 100%; }
+
+/*Bubble*/
+.container__bubble {
+  overflow-x: scroll;
+  padding: 5px;
+  text-align: center;
+  margin: 20px auto auto; }
+  @media (min-width: 1000px) {
+    .container__bubble {
+      justify-content: center; } }
+
+.container__bubble::-webkit-scrollbar {
+  height: 0px; }
+
+.bubble__link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+  text-transform: uppercase;
+  padding: 5px 10px; }
+
+.bubble__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.1);
+  padding: 5px 10px; }
+
+.bubble__img img {
+  width: 100%; }
+
+.bubble__text {
+  padding-top: 5px; }
+
+.bubble__title {
+  font-size: 30px; }
+  @media (max-width: 780px) {
+    .bubble__title {
+      font-size: 12px; } }
+
+.bubble__subtitle {
+  font-size: 16px; }
+  @media (max-width: 780px) {
+    .bubble__subtitle {
+      font-size: 10px; } }
+
+/*Banner*/
+.banner img {
+  width: 224px; }
+
+.btn__banner {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  padding: 5px;
+  transition: .2s;
+  font-size: 16px; }
+  @media (max-width: 780px) {
+    .btn__banner {
+      font-size: 9px; } }
+
+.btn__banner:hover {
+  color: #FFFFFF;
+  scale: 1.01; }
+
+/*Categorias*/
+.title__categirias {
+  font-family: 'Noto Serif Khojki', serif; }
+
+.max-width-mil {
+  max-width: 1000px; }
+
+.card__home {
+  transition: .3s; }
+
+.card__home:hover {
+  scale: 1.02; }
+
+.card__title {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  color: #000; }
+
+/*Footer*/
+.img__social {
+  width: 20px;
+  margin-right: 10px; }
