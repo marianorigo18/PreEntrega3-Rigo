@@ -1,11 +1,11 @@
 import {herramientasT} from '../exports/data.js'
 const containerCard = document.querySelector('#container__cards');
 
-console.log(herramientasT[0].herramientas)
+const her = herramientasT[0].herramientas
 
 let fragment = document.createDocumentFragment();
 
-herramientas.forEach( elemet => {
+her.forEach( elemet => {
     const contenedorCard = document.createElement('div');
     contenedorCard.className = 'col-6 col-sm-6 col-md-4 col-lg-3';  
 
