@@ -982,31 +982,31 @@ export const bubble = [
     id: 5,
     img: "./assets/bubble/normalizados.jpg",
     title: "normalizados",
-    link: "#",
+    link: "./pages/normalizados.html",
   },
   {
     id: 6,
     img: "./assets/bubble/medicion.jpg",
     title: "medicion",
-    link: "#",
+    link: "./pages/testing.html",
   },
   {
     id: 7,
     img: "./assets/bubble/aereo.jpg",
     title: "aereo",
-    link: "#",
+    link: "./pages/aereo.html",
   },
   {
     id: 9,
     img: "./assets/bubble/emergencia.jpg",
     title: "emergencia",
-    link: "#",
+    link: "./pages/emergencia.html",
   },
   {
     id: 12,
     img: "./assets/bubble/morceto.jpg",
     title: "morcetos",
-    link: "#",
+    link: "./pages/morceteria.html",
   },
 ];
 
