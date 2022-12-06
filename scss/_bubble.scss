@@ -1,4 +1,8 @@
 /*Bubble*/
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+}
 .container__bubble{
     overflow-x: scroll;
     padding: 5px;
@@ -12,17 +16,15 @@
     height: 0px;
 }
 .bubble__link{
-    display: flex;
+    @include flex-center();
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     font-size: 9px;
     text-transform: uppercase;
     padding: 5px 10px;
 }
 .bubble__img{
-    display: flex;
-    justify-content: center;
+    @include flex-center();
     align-items: center;
     height: 50px;
     width: 50px;
