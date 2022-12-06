@@ -54,7 +54,8 @@ a {
   width: 100%; }
 
 .bubble__text {
-  padding-top: 5px; }
+  padding-top: 5px;
+  width: max-content; }
 
 .bubble__title {
   font-size: 30px; }
