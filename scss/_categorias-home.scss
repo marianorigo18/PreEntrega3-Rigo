@@ -1,0 +1,16 @@
+/*Categorias*/
+.max-width-mil{
+    max-width: 1000px;
+}
+.card__home{
+    transition: .3s;
+}
+.card__home:hover{
+    scale: 1.02;
+}
+.card__title{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    color: #000;
+}

@@ -1,0 +1,18 @@
+/*Banner*/
+.banner img{
+    width: 224px;
+}
+.btn__banner{
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    padding: 5px;
+    transition: .2s;
+    font-size: 16px;
+    @media (max-width: 780px) {
+        font-size: 9px;
+    }
+}
+.btn__banner:hover{
+    color: #FFFFFF;
+    scale: 1.01;
+}

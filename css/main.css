@@ -87,9 +87,6 @@ a {
   scale: 1.01; }
 
 /*Categorias*/
-.title__categirias {
-  font-family: 'Noto Serif Khojki', serif; }
-
 .max-width-mil {
   max-width: 1000px; }
 
@@ -104,11 +101,6 @@ a {
   font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   color: #000; }
-
-/*Footer*/
-.img__social {
-  width: 20px;
-  margin-right: 10px; }
 
 .banner__topic {
   font-family: 'Nunito Sans', sans-serif; }
@@ -143,3 +135,11 @@ a {
 .card__product:hover {
   box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
   scale: 1.01; }
+
+/*Footer*/
+.img__social {
+  width: 20px;
+  margin-right: 10px; }
+
+.footer a {
+  text-transform: capitalize; }

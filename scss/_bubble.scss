@@ -1,17 +1,3 @@
-/*Header*/
-.header{
-    margin: 20px 20px;
-}
-.header i{
-    font-size: 30px;
-}
-.container__logo{
-    display: block;
-    width: 200px;
-}
-.container__logo img{
-    width: 100%;
-}
 /*Bubble*/
 .container__bubble{
     overflow-x: scroll;
@@ -61,46 +47,4 @@
     @media (max-width: 780px) {
         font-size: 10px;
     }
-}
-/*Banner*/
-.banner img{
-    width: 224px;
-}
-.btn__banner{
-    border: 1px solid #FFFFFF;
-    color: #FFFFFF;
-    padding: 5px;
-    transition: .2s;
-    font-size: 16px;
-    @media (max-width: 780px) {
-        font-size: 9px;
-    }
-}
-.btn__banner:hover{
-    color: #FFFFFF;
-    scale: 1.01;
-}
-/*Categorias*/
-.title__categirias{
-    font-family: 'Noto Serif Khojki', serif;
-}
-.max-width-mil{
-    max-width: 1000px;
-}
-.card__home{
-    transition: .3s;
-}
-.card__home:hover{
-    scale: 1.02;
-}
-.card__title{
-    font-size: 16px;
-    font-family: 'Roboto', sans-serif;
-    text-transform: uppercase;
-    color: #000;
-}
-/*Footer*/
-.img__social{
-    width: 20px;
-    margin-right: 10px;
 }
