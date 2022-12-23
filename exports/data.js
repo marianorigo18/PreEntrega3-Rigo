@@ -162,21 +162,25 @@ export const iluminacionT = [
     id: 2,
     img: "../assets/iluminacion/faroles.jpg",
     title: "faroles",
+    link: "#",
   },
   {
     id: 3,
     img: "../assets/iluminacion/bidireccionales.jpg",
     title: "bidireccionales",
+    link: "#",
   },
   {
     id: 4,
     img: "../assets/iluminacion/plafones.jpg",
     title: "plafones",
+    link: "#",
   },
   {
     id: 5,
     img: "../assets/iluminacion/colgantes.jpg",
     title: "colgantes",
+    link: "#",
   },
 ];
 
