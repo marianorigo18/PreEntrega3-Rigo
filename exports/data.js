@@ -155,7 +155,8 @@ export const iluminacionT = [
   {
     id: 1,
     img: "../assets/iluminacion/lamparas-vintage.jpg",
-    title: "lampara-vintage",
+    title: "lamparas",
+    link: "../subpages/lamparas.html",
   },
   {
     id: 2,
@@ -1032,3 +1033,34 @@ export const topicTwo = [
     title: "industria"
   },
 ] 
+
+export const lamparas = [
+  {
+    id:1,
+    img: "../assets/lamparas/dicroica.jpg",
+  },
+  {
+    id:2,
+    img: "../assets/lamparas/faroltrial.jpg",
+  },
+  {
+    id:3,
+    img: "../assets/lamparas/faroltulipa.jpg",
+  },
+  {
+    id:4,
+    img: "../assets/lamparas/galponera.jpg",
+  },
+  {
+    id:5,
+    img: "../assets/lamparas/potentee27.jpg",
+  },
+  {
+    id:6,
+    img: "../assets/lamparas/proyectorbrazo.jpg",
+  },
+  {
+    id:7,
+    img: "../assets/lamparas/proyectorbrazotwo.jpg",
+  },
+]
