@@ -18,6 +18,9 @@ a {
 .container__logo img {
   width: 100%; }
 
+.card__icon {
+  margin-right: 20px; }
+
 /*Bubble*/
 .container__bubble {
   overflow-x: scroll;
