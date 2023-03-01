@@ -824,7 +824,48 @@
             "img": "./assets/topics/industria.jpg",
             "link": "./pages/industria.html",
             "categorias": [
-            {}
+            {
+                "title": "contactores",
+                "img": "../data/assets/industria/contactores.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "motores",
+                "img": "../data/assets/industria/motores.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "variadores",
+                "img": "../data/assets/industria/variadores.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "relevos",
+                "img": "../data/assets/industria/relevos.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "arranque-suave",
+                "img": "../data/assets/industria/arranque-suave.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "termomagneticas",
+                "img": "../data/assets/industria/termomagneticas.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "diferenciales",
+                "img": "../data/assets/industria/diferenciales.jpg",
+                "link": "",
+                "categorias": [{}]
+            }
             ]
         },
         {
