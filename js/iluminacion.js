@@ -6,34 +6,16 @@ let fragment = document.createDocumentFragment();
 
 iluminacionT.forEach( elemet => {
     const contenedorCard = document.createElement('div');
-    contenedorCard.className = 'col-6 col-sm-6 col-md-4 col-lg-3';  
+    contenedorCard.className = 'col-6 col-sm-6 col-md-4 col-lg-3'; 
 
-    const card = document.createElement('div');
-    card.classList.add('card__product');
-
-    const cardLink = document.createElement('a');
-    cardLink.href = elemet.link
-
-    const imgCard = document.createElement('img');
-    imgCard.classList.add('card-img-top');
-    imgCard.src = elemet.img;
-    imgCard.alt = elemet.title
-
-
-    const cardBody = document.createElement('div');
-    card.classList.add('card-body');
-
-    const cardTitle = document.createElement('h5');
-    cardTitle.className = 'card-title text-center mt-3 text-black-50 text-uppercase fs-6 fw-normal py-3';
-    cardTitle.textContent = elemet.title
-
-    cardLink.appendChild(card)
-    card.appendChild(imgCard);
-    cardBody.appendChild(cardTitle);
-    card.appendChild(cardBody);
-    contenedorCard.appendChild(cardLink);
-
-    fragment.appendChild(contenedorCard);
+    contenedorCard.innerHTML = `
+    <div class="card__product card-body">
+        <img class="card-img-top" src="${elemet.img}" alt="${elemet.title}">
+        <div>
+            <h5 class="card-title text-center mt-3 text-black-50 text-uppercase fs-6 fw-normal py-3">${elemet.title}</h5>
+        </div>
+    </div>
+    `
+    containerCard.appendChild(contenedorCard)
 })
 
-containerCard.appendChild(fragment)

@@ -1,30 +1,20 @@
 import {bubble} from '../exports/data.js';
 const containerBubble = document.querySelector('#container__bubble');
 
-let fragment = document.createDocumentFragment();
-
 bubble.forEach( element => {
     
     const bubbleLink = document.createElement('a');
     bubbleLink.href = element.link;
     bubbleLink.classList.add('bubble__link');
-    
-    const bubbleImg = document.createElement('div');
-    bubbleImg.classList.add('bubble__img');
 
-    const imgBubble = document.createElement('img');
-    imgBubble.src = element.img;
-    imgBubble.alt = element.title
-
-    const bubbleText = document.createElement('span');
-    bubbleText.classList.add('bubble__text')
-    bubbleText.textContent = element.title;
-
-    bubbleImg.appendChild(imgBubble);
-    bubbleLink.appendChild(bubbleImg)
-    bubbleLink.appendChild(bubbleText)
-
-    fragment.appendChild(bubbleLink)
+    bubbleLink.innerHTML = `
+    <a href="${element.link}" class="bubble__link">
+        <div class="bubble__img">
+            <img src="${element.img}" alt="${element.title}">
+        </div>
+        <span class="bubble__text">${element.title}</span>
+    </a>
+    `
+    containerBubble.appendChild(bubbleLink)
 })
 
-containerBubble.appendChild(fragment)
