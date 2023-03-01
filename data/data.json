@@ -2,8 +2,8 @@
     "categorias": [
         {
             "title": "iluminacion",
-            "img": "",
-            "link": "iluminacion.html",
+            "img": "./assets/topics/iluminacion.jpg",
+            "link": "./pages/iluminacion.html",
             "categorias": [
                 {
                     "title": "lamparas",
@@ -821,10 +821,82 @@
         },
         {
             "title": "industria",
-            "img": "",
-            "link": "industria.html",
+            "img": "./assets/topics/industria.jpg",
+            "link": "./pages/industria.html",
             "categorias": [
-
+            {}
+            ]
+        },
+        {
+            "title": "conductores",
+            "img": "./assets/topics/conductorestwo.jpg",
+            "link": "./pages/cables.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "puntos y toma",
+            "img": "./assets/topics/conjuntos.jpg",
+            "link": "./pages/armados.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "herramientas",
+            "img": "./assets/topics/herramientas.jpg",
+            "link": "./pages/herramientas.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "terminales",
+            "img": "./assets/topics/terminales.jpg",
+            "link": "./pages/terminales.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "normalizados",
+            "img": "./assets/topics-two/normalizadosTwo.jpg",
+            "link": "./pages/normalizados.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "medicion",
+            "img": "./assets/topics/instrumentos.jpg",
+            "link": "./pages/testing.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "aereo",
+            "img": "./assets/topics/aereo.jpg",
+            "link": "./pages/aereo.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "emergencia",
+            "img": "./assets/topics/emergencia.jpg",
+            "link": "./pages/emergencia.html",
+            "categorias": [
+            {}
+            ]
+        },
+        {
+            "title": "morceteria",
+            "img": "./assets/topics/morceteria.jpg",
+            "link": "./pages/morceteria.html",
+            "categorias": [
+            {}
             ]
         }
     ]
