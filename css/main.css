@@ -140,6 +140,40 @@ a {
   box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
   scale: 1.01; }
 
+.cart__container table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  white-space: nowrap; }
+  .cart__container table thead {
+    border: 1px solid  #e2e9e1;
+    text-align: center;
+    border-left: none;
+    border-right: none; }
+    .cart__container table thead th {
+      font-weight: 700;
+      font-size: 16px;
+      text-transform: uppercase; }
+  .cart__container table tbody img {
+    width: 110px; }
+  .cart__container table tbody td .icon-trash {
+    font-size: 27px; }
+  .cart__container table tbody td:nth-child(1) {
+    width: 50px;
+    text-align: center; }
+  .cart__container table tbody td:nth-child(2) {
+    text-align: center;
+    width: 250px; }
+  .cart__container table tbody td:nth-child(3) {
+    text-align: center;
+    width: 150px; }
+  .cart__container table tbody td:nth-child(3) input {
+    width: 70px;
+    padding: 10px 5px 10px 15px; }
+  .cart__container table tbody td:nth-child(4) {
+    text-align: center;
+    width: 70px; }
+
 .icono-whatsapp {
   position: fixed;
   right: 20px;

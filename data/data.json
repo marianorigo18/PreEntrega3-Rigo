@@ -1,0 +1,831 @@
+{
+    "categorias": [
+        {
+            "title": "iluminacion",
+            "img": "",
+            "link": "iluminacion.html",
+            "categorias": [
+                {
+                    "title": "lamparas",
+                    "img": "",
+                    "link": "./pag/lamparas.html",
+                    "categorias": [
+                    {
+                        "title": "vintage",
+                        "img": "vintage.html",
+                        "link": "vintage.html",
+                        "categorias": [
+                            {
+                                "id": 1,
+                                "title": "gota s14 1w",
+                                "img": ""
+                            },
+                            {
+                                "id": 2,
+                                "title": "vela c37 3w",
+                                "img": ""
+                            },                            
+                            {
+                                "id": 3,
+                                "title": "gota g45 3w",
+                                "img": ""
+                            },
+                            {
+                                "id": 4,
+                                "title": "bulbo a60 2w",
+                                "img": ""
+                            },
+                            {
+                                "id": 5,
+                                "title": "bulbo A60 5w",
+                                "img": ""
+                            },
+                            {
+                                "id": 6,
+                                "title": "tubo t45 4w",
+                                "img": ""
+                            },
+                            {
+                                "id": 7,
+                                "title": "tubo t30 2w",
+                                "img": ""
+                            },
+                            {
+                                "id": 8,
+                                "title": "tubo t30 5w",
+                                "img": ""
+                            },
+                            {
+                                "id": 9,
+                                "title": "globo g125 5w",
+                                "img": ""
+                            },
+                            {
+                                "id": 10,
+                                "title": "vintage st19 2w",
+                                "img": ""
+                            },
+                            {
+                                "id": 11,
+                                "title": "vintage st19 5w",
+                                "img": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "bulbos",
+                        "img": "",
+                        "link": "bulbos.html",
+                        "categorias": [
+                            {
+                                "id": 12,
+                                "title": "bulbo 7w",
+                                "img": ""
+                            },
+                            {
+                                "id": 13,
+                                "title": "bulbo 10w",
+                                "img": ""
+                            },
+                            {
+                                "id": 14,
+                                "title": "bulbo 12w",
+                                "img": ""
+                            },
+                            {
+                                "id": 15,
+                                "title": "bulbo 15w",
+                                "img": ""
+                            },
+                            {
+                                "id": 16,
+                                "title": "fridge 1.8w",
+                                "img": ""
+                            },
+                            {
+                                "id": 17,
+                                "title": "fridge 4w"
+                            },
+                            {
+                                "id": 18,
+                                "title": "gota g45 6w e-14",
+                                "img": ""
+                            },
+                            {
+                                "id": 19,
+                                "title": "gota g45 6w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 20,
+                                "title": "vela c37 6w e-14",
+                                "img": ""
+
+                            },
+                            {
+                                "id": 21,
+                                "title": "vela c37 6w e-27",
+                                "img": ""
+
+                            },
+                            {
+                                "id": 22,
+                                "title": "globo g95 14w",
+                                "img": ""
+                            },
+                            {
+                                "id": 23,
+                                "title": "globo g95 18w",
+                                "img": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "dicroicas",
+                        "img": "",
+                        "link": "dicroicas.html",
+                        "categorias": [
+                            {
+                                "id": 24,
+                                "title": "dicro pvc 5w",
+                                "img": ""
+                            },
+                            {
+                                "id": 25,
+                                "title": "drico blanca 7w",
+                                "img": ""
+                            },
+                            {
+                                "id": 26,
+                                "title": "drico dimerizable 7w",
+                                "img": ""
+                            },
+                            {
+                                "id": 27,
+                                "title": "dricro negra 7w",
+                                "img": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "gota",
+                        "img": "",
+                        "link": "gota.html",
+                        "categorias": [
+                            {
+                                "id": 28,
+                                "title": "gota s14 1w azul",
+                                "img": ""
+                            },
+                            {
+                                "id": 29,
+                                "title": "gota s14 1w rojo",
+                                "img": ""
+                            },
+                            {
+                                "id": 30,
+                                "title":"gota s14 1w verde",
+                                "img": ""
+                            },
+                            {
+                                "id": 31,
+                                "title": "gota s14 1w amarillo",
+                                "img": ""
+                            },
+                            {
+                                "id": 31,
+                                "title": "gota s14 deco 1w",
+                                "img": ""
+                            },
+                            {
+                                "id": 32,
+                                "title": "gota calida 6w",
+                                "img": ""
+                            },
+                            {
+                                "id": 33,
+                                "title": "gota fria 6w",
+                                "img": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "golponeras",
+                        "img": "",
+                        "link": "golponeras.html",
+                        "categorias": [
+                            {
+                                "id": 34,
+                                "title": "bulbon 19w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 35,
+                                "title": "bulbon 28w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 36,
+                                "title": "bulbon 38w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 37,
+                                "title": "bulbon 48w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 38,
+                                "title": "hightpower 60w e-40",
+                                "img": ""
+                            },
+                            {
+                                "id": 39,
+                                "title": "hightpower 90w e-40",
+                                "img": ""
+                            },
+                            {
+                                "id": 40,
+                                "title": "magnolia 40w e-40",
+                                "img": ""
+                            },
+                            {
+                                "id": 41,
+                                "title": "magnolia 60w e-40",
+                                "img": ""
+                            }
+                        ]
+                    },
+                    {
+                        "title": "bi-pin",
+                        "img": "",
+                        "link": "bi-pin.html",
+                        "categorias": [
+                            {
+                                "id": 42,
+                                "title": "bipin 4.5w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 43,
+                                "title": "bipin 6w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 44,
+                                "title": "bipin 9w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 45,
+                                "title": "bipin 12w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 46,
+                                "title": "bipin opal 5w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 47,
+                                "title": "bipin 2w g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 48,
+                                "title": "bipin 4w g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 49,
+                                "title": "bipin 2.5w opal g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "tubo led",
+                        "img": "",
+                        "link": "tubo-led.html",
+                        "categorias": [
+                            {
+                                "id": 50,
+                                "title": "tubo led vidrio 60cm 9w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 51,
+                                "title": "tubo led vidrio 120cm 18w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 52,
+                                "title": "tubo nano 60cm 9w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 53,
+                                "title": "tubo nano 120cm 18w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            }
+                        ]
+                    }
+                ]},
+                {
+                    "title" :"faroles",
+                    "img": "",
+                    "link": "./pag/linea-faroles.html",
+                    "categorias": [
+                        {
+                            "title": "faroles trapezoidales",
+                            "img": "",
+                            "link": "foroles-trapezoidales.html",
+                            "categorias": [
+                                {
+                                "id": 54,
+                                "title": "farol trapezoidal 5500",
+                                "img": ""
+                                },
+                                {
+                                "id": 55,
+                                "title": "farol trapezoidal 5510",
+                                "img": ""
+                                },
+                                {
+                                "id": 56,
+                                "title": "farol trapezoidal 5512",
+                                "img": ""
+                                },
+                                {
+                                "id": 57,
+                                "title": "farol trapezoidal 5513",
+                                "img": ""
+                                },
+                                {
+                                "id": 58,
+                                "title": "farol trapezoidal 5514",
+                                "img": ""
+                                },
+                                {
+                                "id": 59,
+                                "title": "farol trapezoidal 5516",
+                                "img": ""
+                                },
+                                {
+                                "id": 60,
+                                "title": "farol trapezoidal 5518",
+                                "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "faroles exagonales",
+                            "img": "",
+                            "link": "foroles-exagonales.html",
+                            "categorias": [
+                                {
+                                    "id": 61,
+                                    "title":"farol exagonal 5530",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 62,
+                                    "title": "farol exagonal 5532",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 62,
+                                    "title": "farol exagonal 5533",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 63,
+                                    "title": "farol exagonal 5536",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 64,
+                                    "title": "farol exagonal 5537",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 65,
+                                    "title": "farol exagonal 5538",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "faroles rectos",
+                            "img": "",
+                            "link": "foroles-rectos.html",
+                            "categorias": [
+                                {
+                                    "id": 66,
+                                    "title": "farol recto 5505",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 67,
+                                    "title": "farol recto 5520",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 68,
+                                    "title": "farol recto 5522",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 69,
+                                    "title": "farol recto 5523",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "apliques",
+                    "img": "",
+                    "link": "./pag/apliques.html",
+                    "categorias": [
+                        {
+                            "title": "unidireccional",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": 70,
+                                    "title": "unidireccional monaco ap-121",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 71,
+                                    "title": "unidireccional anka 40038",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 72,
+                                    "title": "unidireccional eco simple 40036",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "bidireccional",
+                            "img": "",
+                            "link": "",
+                            "categorias": [
+                                {
+                                    "id": "73",
+                                    "title": "bidireccional monaco ap-221",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "74",
+                                    "title": "bidireccional monaco ap-220",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "75",
+                                    "title": "bidireccional anka doble 40039",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "76",
+                                    "title": "bidireccional tango 41037",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "plafones",
+                    "img": "",
+                    "link": "./pag/plafones.html",
+                    "categorias": [
+                        {
+                            "title": "cuadrado aplicable",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "77",
+                                    "title": "cuadrado apl 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "78",
+                                    "title": "cuadrado apl 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "79",
+                                    "title": "cuadrado apl 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "80",
+                                    "title": "cuadrado apl 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular embutir",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "81",
+                                    "title": "circular emb 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "82",
+                                    "title": "circular emb 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "83",
+                                    "title": "circular emb 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "84",
+                                    "title": "circular emb 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cuadrado embutir",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "85",
+                                    "title": "cuadrado emb 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "86",
+                                    "title": "cuadrado emb 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "87",
+                                    "title": "cuadrado emb 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "88",
+                                    "title": "cuadrado emb 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular aplicable",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "89",
+                                    "title": "circular apl 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "90",
+                                    "title": "circular apl 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "91",
+                                    "title": "circular apl 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "92",
+                                    "title": "circular apl 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cuadrado apl black",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "93",
+                                    "title": "cuadrado apl black 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "94",
+                                    "title": "cuadrado apl black 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "95",
+                                    "title": "cuadrado apl black 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "96",
+                                    "title": "cuadrado apl black 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular apl black",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "97",
+                                    "title": "circular apl black 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "98",
+                                    "title": "circular apl black 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "99",
+                                    "title": "circular apl black 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "100",
+                                    "title": "circular apl black 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular apl platil",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "101",
+                                    "title": "circular apl platil 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "102",
+                                    "title": "circular apl platil 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "103",
+                                    "title": "circular aplplatil 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "104",
+                                    "title": "circular apl platil 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "40x40",
+                            "img": "",
+                            "link": "",
+                            "categorias": [
+                                {
+                                    "id": "105",
+                                    "title": "panel 40x40 embutir",
+                                    "img": ""
+                                },   
+                                {
+                                    "id": "106",
+                                    "title": "panel 40x40 + accesorio apl",
+                                    "img": ""
+                                }       
+                            ]
+                        },
+                        {
+                            "title": "embutir 30x120",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "107",
+                                    "title": "panel 30x120 embutir",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "108",
+                                    "title": "panel 30x120 + accesorio apl",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "colgantes",
+                    "img": "",
+                    "link": "./pag/colgantes.html",
+                    "categorias": [
+                        {
+                            "title": "chapa",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "109",
+                                    "title": "colgante chapa c-136ama",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "110",
+                                    "title": "colgante chapa c-136cob/tte",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "111",
+                                    "title": "colgante chapa c-136gri/alu",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "vidrio",
+                            "img": "",
+                            "link": "",
+                            "categorias":[
+                                {
+                                    "id": "112",
+                                    "title": "colgante vidrio c-172/25/pla",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "113",
+                                    "title": "colgante vidrio c-172/32/bla",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "114",
+                                    "title": "colgante vidrio c-175/25/pla",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "115",
+                                    "title": "colgante vidrio c-175/30/neg",
+                                    "img": ""
+                                }
+                            ]
+
+                        },
+                        {
+                            "title": "policarbonato",
+                            "img": "",
+                            "link": "",
+                            "categorias": [
+                                {
+                                    "id": "116",
+                                    "title": "colgante e-27 30cm pol betta 127 eco mca",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "117",
+                                    "title": "colgante e-40 42cm pol betta 127 eco mca",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ] 
+            
+        },
+        {
+            "title": "industria",
+            "img": "",
+            "link": "industria.html",
+            "categorias": [
+
+            ]
+        }
+    ]
+}

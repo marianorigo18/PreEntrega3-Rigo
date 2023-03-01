@@ -1,0 +1,50 @@
+.cart__container table{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+    &
+    thead{
+        border: 1px solid  #e2e9e1;
+        text-align: center;
+        border-left: none;
+        border-right: none;
+        &
+        th{
+            font-weight: 700;
+            font-size: 16px;
+            text-transform: uppercase;
+        }
+    } 
+    tbody{
+        &
+        img{
+            width: 110px;
+        }
+        td .icon-trash{
+            font-size: 27px;
+        }
+        td:nth-child(1){
+            width: 50px;
+            text-align: center;
+        }
+        td:nth-child(2){
+            text-align: center;
+            width: 250px;
+        }
+        td:nth-child(3){
+            text-align: center;
+            width: 150px;
+        }
+        td:nth-child(3) input{
+            width: 70px;
+            padding: 10px 5px 10px 15px;
+        }
+        td:nth-child(4){
+            text-align: center;
+            width: 70px;
+        }
+    }
+
+
+}
