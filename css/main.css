@@ -58,7 +58,8 @@ a {
 
 .bubble__text {
   padding-top: 5px;
-  width: max-content; }
+  width: max-content;
+  font-weight: 600; }
 
 .bubble__title {
   font-size: 30px; }
