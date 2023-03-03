@@ -7,7 +7,6 @@ showData(data.categorias);
 
 const containerCotegorias = document.querySelector('#container__categorias');
 function showData(data){
-    console.log(data);
     data.forEach(element => {
         const cardCategory = document.createElement('div');
         cardCategory.className = 'col-6 col-sm-6 col-md-4 col-lg-3';

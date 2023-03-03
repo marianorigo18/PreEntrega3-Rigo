@@ -7,8 +7,8 @@
             "categorias": [
                 {
                     "title": "lamparas",
-                    "img": "",
-                    "link": "./pag/lamparas.html",
+                    "img": "../assets/iluminacion/lamparas-vintage.jpg",
+                    "link": "../subpages/lamparas.html",
                     "categorias": [
                     {
                         "title": "vintage",
@@ -345,8 +345,8 @@
                 ]},
                 {
                     "title" :"faroles",
-                    "img": "",
-                    "link": "./pag/linea-faroles.html",
+                    "img": "../assets/iluminacion/faroles.jpg",
+                    "link": "#",
                     "categorias": [
                         {
                             "title": "faroles trapezoidales",
@@ -458,8 +458,8 @@
                 },
                 {
                     "title": "apliques",
-                    "img": "",
-                    "link": "./pag/apliques.html",
+                    "img": "../assets/iluminacion/bidireccionales.jpg",
+                    "link": "#",
                     "categorias": [
                         {
                             "title": "unidireccional",
@@ -514,8 +514,8 @@
                 },
                 {
                     "title": "plafones",
-                    "img": "",
-                    "link": "./pag/plafones.html",
+                    "img": "../assets/iluminacion/plafones.jpg",
+                    "link": "#",
                     "categorias": [
                         {
                             "title": "cuadrado aplicable",
@@ -744,8 +744,8 @@
                 },
                 {
                     "title": "colgantes",
-                    "img": "",
-                    "link": "./pag/colgantes.html",
+                    "img": "../assets/iluminacion/colgantes.jpg",
+                    "link": "#",
                     "categorias": [
                         {
                             "title": "chapa",
