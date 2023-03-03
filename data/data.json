@@ -873,7 +873,12 @@
             "img": "./data/assets/topics/conductorestwo.jpg",
             "link": "./pages/cables.html",
             "categorias": [
-            {}
+            {
+                "title": "diferenciales",
+                "img": "../data/assets/industria/diferenciales.jpg",
+                "link": "",
+                "categorias": [{}]
+            }
             ]
         },
         {
