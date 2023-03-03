@@ -7,7 +7,7 @@
             "categorias": [
                 {
                     "title": "lamparas",
-                    "img": "../assets/iluminacion/lamparas-vintage.jpg",
+                    "img": "./data/assets/iluminacion/lamparas-vintage.jpg",
                     "link": "../subpages/lamparas.html",
                     "categorias": [
                     {
@@ -345,7 +345,7 @@
                 ]},
                 {
                     "title" :"faroles",
-                    "img": "../assets/iluminacion/faroles.jpg",
+                    "img": "./data/assets/iluminacion/faroles.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -458,7 +458,7 @@
                 },
                 {
                     "title": "apliques",
-                    "img": "../assets/iluminacion/bidireccionales.jpg",
+                    "img": "./data/assets/iluminacion/bidireccionales.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -514,7 +514,7 @@
                 },
                 {
                     "title": "plafones",
-                    "img": "../assets/iluminacion/plafones.jpg",
+                    "img": "./data/assets/iluminacion/plafones.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -744,7 +744,7 @@
                 },
                 {
                     "title": "colgantes",
-                    "img": "../assets/iluminacion/colgantes.jpg",
+                    "img": "./data/assets/iluminacion/colgantes.jpg",
                     "link": "#",
                     "categorias": [
                         {
