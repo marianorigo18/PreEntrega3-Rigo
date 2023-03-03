@@ -7,7 +7,7 @@
             "categorias": [
                 {
                     "title": "lamparas",
-                    "img": "./data/assets/iluminacion/lamparas-vintage.jpg",
+                    "img": "../data/assets/iluminacion/lamparas-vintage.jpg",
                     "link": "../subpages/lamparas.html",
                     "categorias": [
                     {
@@ -345,7 +345,7 @@
                 ]},
                 {
                     "title" :"faroles",
-                    "img": "./data/assets/iluminacion/faroles.jpg",
+                    "img": "../data/assets/iluminacion/faroles.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -458,7 +458,7 @@
                 },
                 {
                     "title": "apliques",
-                    "img": "./data/assets/iluminacion/bidireccionales.jpg",
+                    "img": "../data/assets/iluminacion/bidireccionales.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -514,7 +514,7 @@
                 },
                 {
                     "title": "plafones",
-                    "img": "./data/assets/iluminacion/plafones.jpg",
+                    "img": "../data/assets/iluminacion/plafones.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -744,7 +744,7 @@
                 },
                 {
                     "title": "colgantes",
-                    "img": "./data/assets/iluminacion/colgantes.jpg",
+                    "img": "../data/assets/iluminacion/colgantes.jpg",
                     "link": "#",
                     "categorias": [
                         {
@@ -874,8 +874,56 @@
             "link": "./pages/cables.html",
             "categorias": [
             {
-                "title": "diferenciales",
-                "img": "../data/assets/industria/diferenciales.jpg",
+                "title": "taller",
+                "img": "../assets/conductores/taller.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "subterraneo",
+                "img": "../assets/conductores/subterraneo.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "retenax",
+                "img": "../assets/conductores/retenax.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "preensamblado",
+                "img": "../assets/conductores/preensamblado.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "utp",
+                "img": "../assets/conductores/utp.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "mallado",
+                "img": "../assets/conductores/mallado.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "soldadura",
+                "img": "../assets/conductores/soldadura.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "cuDesnudo",
+                "img": "../assets/conductores/desnudo-cu.jpg",
+                "link": "",
+                "categorias": [{}]
+            },
+            {
+                "title": "unipolares",
+                "img": "../assets/conductores/unipolares.jpg",
                 "link": "",
                 "categorias": [{}]
             }
