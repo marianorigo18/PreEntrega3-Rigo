@@ -12,8 +12,8 @@
                     "categorias": [
                     {
                         "title": "vintage",
-                        "img": "vintage.html",
-                        "link": "vintage.html",
+                        "img": "",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 1,
@@ -75,7 +75,7 @@
                     {
                         "title": "bulbos",
                         "img": "",
-                        "link": "bulbos.html",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 12,
@@ -143,7 +143,7 @@
                     {
                         "title": "dicroicas",
                         "img": "",
-                        "link": "dicroicas.html",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 24,
@@ -170,7 +170,7 @@
                     {
                         "title": "gota",
                         "img": "",
-                        "link": "gota.html",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 28,
@@ -212,7 +212,7 @@
                     {
                         "title": "golponeras",
                         "img": "",
-                        "link": "golponeras.html",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 34,
@@ -259,7 +259,7 @@
                     {
                         "title": "bi-pin",
                         "img": "",
-                        "link": "bi-pin.html",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 42,
@@ -314,7 +314,7 @@
                     {
                         "title": "tubo led",
                         "img": "",
-                        "link": "tubo-led.html",
+                        "link": "#",
                         "categorias": [
                             {
                                 "id": 50,
@@ -351,7 +351,7 @@
                         {
                             "title": "faroles trapezoidales",
                             "img": "",
-                            "link": "foroles-trapezoidales.html",
+                            "link": "#",
                             "categorias": [
                                 {
                                 "id": 54,
@@ -393,7 +393,7 @@
                         {
                             "title": "faroles exagonales",
                             "img": "",
-                            "link": "foroles-exagonales.html",
+                            "link": "#",
                             "categorias": [
                                 {
                                     "id": 61,
@@ -430,7 +430,7 @@
                         {
                             "title": "faroles rectos",
                             "img": "",
-                            "link": "foroles-rectos.html",
+                            "link": "#",
                             "categorias": [
                                 {
                                     "id": 66,
@@ -464,7 +464,7 @@
                         {
                             "title": "unidireccional",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": 70,
@@ -486,7 +486,7 @@
                         {
                             "title": "bidireccional",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias": [
                                 {
                                     "id": "73",
@@ -520,7 +520,7 @@
                         {
                             "title": "cuadrado aplicable",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "77",
@@ -547,7 +547,7 @@
                         {
                             "title": "circular embutir",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "81",
@@ -574,7 +574,7 @@
                         {
                             "title": "cuadrado embutir",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "85",
@@ -601,7 +601,7 @@
                         {
                             "title": "circular aplicable",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "89",
@@ -628,7 +628,7 @@
                         {
                             "title": "cuadrado apl black",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "93",
@@ -655,7 +655,7 @@
                         {
                             "title": "circular apl black",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "97",
@@ -682,7 +682,7 @@
                         {
                             "title": "circular apl platil",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "101",
@@ -709,7 +709,7 @@
                         {
                             "title": "40x40",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias": [
                                 {
                                     "id": "105",
@@ -726,7 +726,7 @@
                         {
                             "title": "embutir 30x120",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "107",
@@ -750,7 +750,7 @@
                         {
                             "title": "chapa",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "109",
@@ -772,7 +772,7 @@
                         {
                             "title": "vidrio",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias":[
                                 {
                                     "id": "112",
@@ -800,7 +800,7 @@
                         {
                             "title": "policarbonato",
                             "img": "",
-                            "link": "",
+                            "link": "#",
                             "categorias": [
                                 {
                                     "id": "116",
@@ -875,55 +875,55 @@
             "categorias": [
             {
                 "title": "taller",
-                "img": "../assets/conductores/taller.jpg",
+                "img": "../data/assets/conductores/taller.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "subterraneo",
-                "img": "../assets/conductores/subterraneo.jpg",
+                "img": "../data/assets/conductores/subterraneo.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "retenax",
-                "img": "../assets/conductores/retenax.jpg",
+                "img": "../data/assets/conductores/retenax.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "preensamblado",
-                "img": "../assets/conductores/preensamblado.jpg",
+                "img": "../data/assets/conductores/preensamblado.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "utp",
-                "img": "../assets/conductores/utp.jpg",
+                "img": "../data/assets/conductores/utp.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "mallado",
-                "img": "../assets/conductores/mallado.jpg",
+                "img": "../data/assets/conductores/mallado.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "soldadura",
-                "img": "../assets/conductores/soldadura.jpg",
+                "img": "../data/assets/conductores/soldadura.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "cuDesnudo",
-                "img": "../assets/conductores/desnudo-cu.jpg",
+                "img": "../data/assets/conductores/desnudo-cu.jpg",
                 "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "unipolares",
-                "img": "../assets/conductores/unipolares.jpg",
+                "img": "../data/assets/conductores/unipolares.jpg",
                 "link": "#",
                 "categorias": [{}]
             }
