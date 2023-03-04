@@ -934,7 +934,69 @@
             "img": "./data/assets/topics/conjuntos.jpg",
             "link": "./pages/armados.html",
             "categorias": [
-            {}
+                {
+                    "title": "cambre",
+                    "img": "../assets/armados/bauhaus-madera.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "sigle xxi",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]
+                        },
+                        {
+                            "title": "sigle xxii",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]
+                        },
+                        {
+                            "title": "bauhaus",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]
+                        },
+                        {
+                            "title": "arte",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]
+                        }
+                    ]
+                },
+                {
+                    "title": "jeluz",
+                    "img": "../assets/armados/jeluz-1p-1t.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "verona",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]
+                        },
+                        {
+                            "title": "cristal",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]
+                        }
+                    ]
+                },
+                {
+                    "title": "sica",
+                    "img": "../assets/armados/sica-1p-1t.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "life",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [{}]  
+                        }
+                    ]
+                }
             ]
         },
         {
