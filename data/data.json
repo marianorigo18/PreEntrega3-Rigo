@@ -827,43 +827,43 @@
             {
                 "title": "contactores",
                 "img": "../data/assets/industria/contactores.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "motores",
                 "img": "../data/assets/industria/motores.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "variadores",
                 "img": "../data/assets/industria/variadores.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "relevos",
                 "img": "../data/assets/industria/relevos.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "arranque-suave",
                 "img": "../data/assets/industria/arranque-suave.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "termomagneticas",
                 "img": "../data/assets/industria/termomagneticas.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "diferenciales",
                 "img": "../data/assets/industria/diferenciales.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             }
             ]
@@ -876,55 +876,55 @@
             {
                 "title": "taller",
                 "img": "../assets/conductores/taller.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "subterraneo",
                 "img": "../assets/conductores/subterraneo.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "retenax",
                 "img": "../assets/conductores/retenax.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "preensamblado",
                 "img": "../assets/conductores/preensamblado.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "utp",
                 "img": "../assets/conductores/utp.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "mallado",
                 "img": "../assets/conductores/mallado.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "soldadura",
                 "img": "../assets/conductores/soldadura.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "cuDesnudo",
                 "img": "../assets/conductores/desnudo-cu.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             },
             {
                 "title": "unipolares",
                 "img": "../assets/conductores/unipolares.jpg",
-                "link": "",
+                "link": "#",
                 "categorias": [{}]
             }
             ]
