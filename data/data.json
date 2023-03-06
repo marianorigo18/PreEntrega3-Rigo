@@ -12,7 +12,7 @@
                     "categorias": [
                     {
                         "title": "vintage",
-                        "img": "",
+                        "img": "../data/assets/lamparas/vintage.jpg",
                         "link": "#",
                         "categorias": [
                             {
@@ -74,7 +74,7 @@
                     },
                     {
                         "title": "bulbos",
-                        "img": "",
+                        "img": "../data/assets/lamparas/lamparaled.jpg",
                         "link": "#",
                         "categorias": [
                             {
@@ -142,7 +142,7 @@
                     },
                     {
                         "title": "dicroicas",
-                        "img": "",
+                        "img": "../data/assets/lamparas/dicroica.jpg",
                         "link": "#",
                         "categorias": [
                             {
@@ -169,7 +169,7 @@
                     },
                     {
                         "title": "gota",
-                        "img": "",
+                        "img": "../data/assets/lamparas/gotafilamento.jpg",
                         "link": "#",
                         "categorias": [
                             {
@@ -211,7 +211,7 @@
                     },
                     {
                         "title": "golponeras",
-                        "img": "",
+                        "img": "../data/assets/lamparas/arr11.jpg",
                         "link": "#",
                         "categorias": [
                             {
@@ -258,7 +258,7 @@
                     },
                     {
                         "title": "bi-pin",
-                        "img": "",
+                        "img": "../data/assets/lamparas/bipinplano.jpg",
                         "link": "#",
                         "categorias": [
                             {
@@ -313,7 +313,7 @@
                     },
                     {
                         "title": "tubo led",
-                        "img": "",
+                        "img": "../data/assets/lamparas/tuboled.jpg",
                         "link": "#",
                         "categorias": [
                             {
