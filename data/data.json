@@ -936,64 +936,180 @@
             "categorias": [
                 {
                     "title": "cambre",
-                    "img": "../assets/armados/bauhaus-madera.jpg",
+                    "img": "../data/assets/armados/xxii-dos-puntos.jpg",
                     "link": "#",
                     "categorias": [
                         {
-                            "title": "sigle xxi",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]
+                            "title": "cambre siglo xxi",
+                            "img": "../data/assets/armados/xxi-1p-1t.jpg",
+                            "link": "../subpages/cambre-siglo-xxi.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "punto y toma xxi",
+                                    "img": "../data/assets/armados/xxi-1p-1t.jpg"
+                                }
+                            ]
                         },
                         {
-                            "title": "sigle xxii",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]
+                            "title": "cambre siglo xxii",
+                            "img": "../data/assets/armados/xxii-un-punto.jpg",
+                            "link": "../subpages/cambre-siglo-xxii.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "xxii bl 1 punto",
+                                    "img": "../data/assets/armados/xxii-un-punto.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "xxii bl 2 puntos",
+                                    "img": "../data/assets/armados/xxii-dos-puntos.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "xxii gris 1p+1t",
+                                    "img": "../data/assets/armados/xxii-gris-1p-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "xxii gris punto + variador ventilador + toma 10a",
+                                    "img": "../data/assets/armados/xxii-gris-p-v-t.jpg"
+                                }
+                            ]
                         },
                         {
-                            "title": "bauhaus",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]
+                            "title": "cambre bauhaus",
+                            "img": "../data/assets/armados/bauhaus-madera.jpg",
+                            "link": "../subpages/bauhaus.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "bauhaus madera 3 puntos",
+                                    "img": "../data/assets/armados/bauhaus-madera-3p.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus madera 1p + 1 variador doble",
+                                    "img": "../data/assets/armados/bauhaus-madera.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus orange 2p+1t",
+                                    "img": "../data/assets/armados/bauhaus-orange-2p-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus green 2 tv",
+                                    "img": "../data/assets/armados/bauhaus-dos-tv.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus gris 2p+1t",
+                                    "img": "../data/assets/armados/bauhaus-2p-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus gris emerg + 1t",
+                                    "img": "../data/assets/armados/bauhaus-emer-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus green toma dobre",
+                                    "img": "../data/assets/armados/bauhaus-green-doble-toma.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus red 2p+1t",
+                                    "img": "../data/assets/armados/bauhaus-red-2p-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus vidrio 2 puntos doble",
+                                    "img": "../data/assets/armados/bauhaus-vidrio-doble-punto.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus vidrio dobre toma",
+                                    "img": "../data/assets/armados/bauhaus-vidrio-doble-toma.jpg"
+                                }
+                            ]
                         },
                         {
-                            "title": "arte",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]
+                            "title": "cambre arte",
+                            "img": "../data/assets/armados/arte-sham-1p-cuadruple.jpg",
+                            "link": "../subpages/arte.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "arte alum 1p cuadruple",
+                                    "img": "../data/assets/armados/arte-alum-1p-cuadruple.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "arte bl 1p+1t",
+                                    "img": "../data/assets/armados/arte-bl-1p.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "arte bl 1p cuadruplet",
+                                    "img": "../data/assets/armados/arte-sham-1p-cuadruple.jpg"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "title": "jeluz",
-                    "img": "../assets/armados/jeluz-1p-1t.jpg",
+                    "img": "../data/assets/armados/jeluz-1p-1t.jpg",
                     "link": "#",
                     "categorias": [
                         {
-                            "title": "verona",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]
-                        },
-                        {
-                            "title": "cristal",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]
+                            "title": "jeluz verona",
+                            "img": "../data/assets/armados/jeluz-1p-1t.jpg",
+                            "link": "../subpages/verona.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "verona 1p+1t",
+                                    "img": "../data/assets/armados/jeluz-1p-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "verona 2 tomas",
+                                    "img": "../data/assets/armados/jeluz-dos-tomas.jpg"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "title": "sica",
-                    "img": "../assets/armados/sica-1p-1t.jpg",
+                    "img": "../data/assets/armados/sica-1p-1t.jpg",
                     "link": "#",
                     "categorias": [
                         {
-                            "title": "life",
-                            "img": "",
-                            "link": "#",
-                            "categorias": [{}]  
+                            "title": "sica life",
+                            "img": "../data/assets/armados/sica-1p-1t.jpg",
+                            "link": "../subpages/sica-life.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "sica life 1p+1t",
+                                    "img": "../data/assets/armados/sica-1p-1t.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "sica life 2 tomas",
+                                    "img": "../data/assets/armados/sica-dos-tomas.jpg"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "sica life toma doble",
+                                    "img": "../data/assets/armados/sica-toma-doble.jpg"
+                                }
+
+                            ]  
                         }
                     ]
                 }
