@@ -1143,7 +1143,85 @@
             "img": "./data/assets/topics/herramientas.jpg",
             "link": "./pages/herramientas.html",
             "categorias": [
-            {}
+            {
+                "title": "electricas",
+                "img": "../data/assets/herramientas/her-elec/taladro-inalambrico-stanley-12v.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "discos",
+                "img": "../data/assets/herramientas/discos/disco-corte-stanley.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "pinzas/alicates",
+                "img": "../data/assets/herramientas/stanley/pinza-stanley.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "pinzas/alicates",
+                "img": "../data/assets/herramientas/stanley/pinza-stanley.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "prensa terminales cu",
+                "img": "../data/assets/herramientas/lct/cobre/ly-10.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "corta cables",
+                "img": "../data/assets/herramientas/lct/corta-cable/lk-60.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "destornilladores",
+                "img": "../data/assets/herramientas/lct/destornilladores/dph.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "hidraulicas",
+                "img": "../data/assets/herramientas/lct/hidraulica/co-12cb.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "coaxil",
+                "img": "../data/assets/herramientas/lct/laton-coaxil/ly-03b.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "pelacables",
+                "img": "../data/assets/herramientas/lct/pelacable/ly-7.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "preaislado",
+                "img": "../data/assets/herramientas/lct/preaislado/hm-1.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "Herramientas p/ rj",
+                "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-468.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "herranientas p/ tubulares",
+                "img": "../data/assets/herramientas/lct/tubular/es-16wf.jpg",
+                "link": "#",
+                "categorias": [{}]
+            }
+
             ]
         },
         {
