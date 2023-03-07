@@ -1173,8 +1173,29 @@
             {
                 "title": "discos",
                 "img": "../data/assets/herramientas/discos/disco-corte-stanley.jpg",
-                "link": "#",
-                "categorias": [{}]
+                "link": "../subpages/herramientas-discos.html",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "disco-corte",
+                        "img": "../data/assets/herramientas/discos/disco-corte-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "disco-continuo",
+                        "img": "../data/assets/herramientas/discos/disco-continuo.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "disco-segmentado",
+                        "img": "../data/assets/herramientas/discos/disco-segmentado.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "disco-flap",
+                        "img": "../data/assets/herramientas/discos/disco-flap.jpg"
+                    }
+                ]
             },
             {
                 "title": "pinzas/alicates",
