@@ -1201,61 +1201,221 @@
                 "title": "pinzas/alicates",
                 "img": "../data/assets/herramientas/stanley/pinza-stanley.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "pinza",
+                        "img": "../data/assets/herramientas/stanley/pinza-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "alicate",
+                        "img": "../data/assets/herramientas/stanley/alicate-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "alicate oblicuo",
+                        "img": "../data/assets/herramientas/stanley/alicate-oblicuo-stanley.jpg"
+                    }
+                ]
             },
             {
                 "title": "prensa terminales cu",
                 "img": "../data/assets/herramientas/lct/cobre/ly-10.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-10",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-10.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-16",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-16.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-35",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-35.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-120",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-120.jpg"
+                    }
+                ]
             },
             {
                 "title": "corta cables",
                 "img": "../data/assets/herramientas/lct/corta-cable/lk-60.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "lk-60",
+                        "img": "../data/assets/herramientas/lct/corta-cable/lk-60.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "lk-325a",
+                        "img": "../data/assets/herramientas/lct/corta-cable/lk-325a.jpg"
+                    }
+                ]
             },
             {
                 "title": "destornilladores",
                 "img": "../data/assets/herramientas/lct/destornilladores/dph.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "dph",
+                        "img": "../data/assets/herramientas/lct/destornilladores/dph.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "dpl",
+                        "img": "../data/assets/herramientas/lct/destornilladores/dpl.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "set destornilladores",
+                        "img": "../data/assets/herramientas/lct/destornilladores/set-destornilladores.jpg"
+                    }
+                ]
             },
             {
                 "title": "hidraulicas",
                 "img": "../data/assets/herramientas/lct/hidraulica/co-12cb.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "co-12cb",
+                        "img": "../data/assets/herramientas/lct/hidraulica/co-12cb.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "hh-ip",
+                        "img": "../data/assets/herramientas/lct/hidraulica/hh-ip.jpg"
+                    }
+                ]
             },
             {
                 "title": "coaxil",
                 "img": "../data/assets/herramientas/lct/laton-coaxil/ly-03b.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-03b",
+                        "img": "../data/assets/herramientas/lct/laton-coaxil/ly-03b.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-05h",
+                        "img": "../data/assets/herramientas/lct/laton-coaxil/ly-05h.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-518g",
+                        "img": "../data/assets/herramientas/lct/laton-coaxil/ly-518g.jpg"
+                    }
+                ]
             },
             {
                 "title": "pelacables",
                 "img": "../data/assets/herramientas/lct/pelacable/ly-7.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-7",
+                        "img": "../data/assets/herramientas/lct/pelacable/ly-7.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-25-9",
+                        "img": "../data/assets/herramientas/lct/pelacable/ly-25-9.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-700",
+                        "img": "../data/assets/herramientas/lct/pelacable/ly-700.jpg"
+                    }
+                ]
             },
             {
                 "title": "preaislado",
                 "img": "../data/assets/herramientas/lct/preaislado/hm-1.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "hm-1",
+                        "img": "../data/assets/herramientas/lct/preaislado/hm-1.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-03c",
+                        "img": "../data/assets/herramientas/lct/preaislado/ly-03c.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-16c",
+                        "img": "../data/assets/herramientas/lct/preaislado/ly-16c.jpg"
+                    }
+                ]
             },
             {
                 "title": "Herramientas p/ rj",
                 "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-468.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-468",
+                        "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-468.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-5684a",
+                        "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-5684a.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-5684b",
+                        "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-5684b.jpg"
+                    }
+                ]
             },
             {
                 "title": "herranientas p/ tubulares",
                 "img": "../data/assets/herramientas/lct/tubular/es-16wf.jpg",
                 "link": "#",
-                "categorias": [{}]
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "es-16wf",
+                        "img": "../data/assets/herramientas/lct/tubular/es-16wf.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-04wf",
+                        "img": "../data/assets/herramientas/lct/tubular/ly-04wf.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-16wf",
+                        "img": "../data/assets/herramientas/lct/tubular/ly-35wf.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-35wf",
+                        "img": "../data/assets/herramientas/lct/tubular/ly-35wf.jpg"
+                    }
+                ]
             }
 
             ]
