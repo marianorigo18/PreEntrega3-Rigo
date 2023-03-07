@@ -1146,8 +1146,29 @@
             {
                 "title": "electricas",
                 "img": "../data/assets/herramientas/her-elec/taladro-inalambrico-stanley-12v.jpg",
-                "link": "#",
-                "categorias": [{}]
+                "link": "../subpages/herramientas-electricas.html",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "amoladora",
+                        "img": "../data/assets/herramientas/her-elec/moladora-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "taladro 12v",
+                        "img": "../data/assets/herramientas/her-elec/moladora-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "taladro 20v",
+                        "img": "../data/assets/herramientas/her-elec/taladro-inalambrico-stanley-20v.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "taladro 700w",
+                        "img": "../data/assets/herramientas/her-elec/taladro-stanley.jpg"
+                    }
+                ]
             },
             {
                 "title": "discos",
