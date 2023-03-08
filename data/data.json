@@ -141,6 +141,15 @@
                         ]
                     },
                     {
+                        "title": "e-14",
+                        "img": "../data/assets/lamparas/e14heladera.jpg",
+                        "link": "#",
+                        "categorias": [
+                            {
+                            }
+                        ]
+                    },
+                    {
                         "title": "dicroicas",
                         "img": "../data/assets/lamparas/dicroica.jpg",
                         "link": "#",
