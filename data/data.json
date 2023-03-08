@@ -1630,37 +1630,37 @@
             "categorias": [
             {
                 "title": "buscapolo inductivo",
-                "img": "./data/assets/instrumentos/buscapolo-inductivo.jpg",
+                "img": "../data/assets/instrumentos/buscapolo-inductivo.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "buscapolo",
-                "img": "./data/assets/instrumentos/buscapolo.jpg",
+                "img": "../data/assets/instrumentos/buscapolo.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "multimetro",
-                "img": "./data/assets/instrumentos/multimetro-two.jpg",
+                "img": "../data/assets/instrumentos/multimetro-two.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "multimetro",
-                "img": "./data/assets/instrumentos/multimetro.jpg",
+                "img": "../data/assets/instrumentos/multimetro.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "pinza amperometrica",
-                "img": "./data/assets/instrumentos/pinza-amperometrica.jpg",
+                "img": "../data/assets/instrumentos/pinza-amperometrica.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "punta de prueba",
-                "img": "./data/assets/instrumentos/punta-prueba.jpg",
+                "img": "../data/assets/instrumentos/punta-prueba.jpg",
                 "link": "#",
                 "categorias":[]
             }
