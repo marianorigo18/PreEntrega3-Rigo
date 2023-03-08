@@ -1479,145 +1479,145 @@
             "categorias": [
             {
                 "title": "abrazaderas",
-                "img": "./data/assets/normalizados/abrazaderas.jpg",
+                "img": "../data/assets/normalizados/abrazaderas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "accesorios para hilo de guardia",
-                "img": "./data/assets/normalizados/accesorios-p-hilo-de-guardia.jpg",
+                "img": "../data/assets/normalizados/accesorios-p-hilo-de-guardia.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "aisladores de porcelana",
-                "img": "./data/assets/normalizados/aisladores-de-porcelana.jpg",
+                "img": "../data/assets/normalizados/aisladores-de-porcelana.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "aisladores polimericos",
-                "img": "./data/assets/normalizados/aisladores-polimericos.jpg",
+                "img": "../data/assets/normalizados/aisladores-polimericos.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "anclajes",
-                "img": "./data/assets/normalizados/anclajes.jpg",
+                "img": "../data/assets/normalizados/anclajes.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "arandelas",
-                "img": "./data/assets/normalizados/arandelas.jpg",
+                "img": "../data/assets/normalizados/arandelas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "ataduras y amarres",
-                "img": "./data/assets/normalizados/ataduras-y-amarres.jpg",
+                "img": "../data/assets/normalizados/ataduras-y-amarres.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "brazos",
-                "img": "./data/assets/normalizados/brazos.jpg",
+                "img": "../data/assets/normalizados/brazos.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "bulones",
-                "img": "./data/assets/normalizados/bulones.jpg",
+                "img": "../data/assets/normalizados/bulones.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "cables",
-                "img": "./data/assets/normalizados/cables.jpg",
+                "img": "../data/assets/normalizados/cables.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "chapas",
-                "img": "./data/assets/normalizados/crusetas.jpg",
+                "img": "../data/assets/normalizados/crusetas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "elementos de cadena",
-                "img": "./data/assets/normalizados/elementos-de-cadena.jpg",
+                "img": "../data/assets/normalizados/elementos-de-cadena.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "guardacabos",
-                "img": "./data/assets/normalizados/guardacabo.jpg",
+                "img": "../data/assets/normalizados/guardacabo.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "jabalinas",
-                "img": "./data/assets/normalizados/jabalinas.jpg",
+                "img": "../data/assets/normalizados/jabalinas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "mensulas y morsas",
-                "img": "./data/assets/normalizados/mensulas-y-morsas.jpg",
+                "img": "../data/assets/normalizados/mensulas-y-morsas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "morcetos, conectores y grampas",
-                "img": "./data/assets/normalizados/morcetos-conectores-y-grampas.jpg",
+                "img": "../data/assets/normalizados/morcetos-conectores-y-grampas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "ojales",
-                "img": "./data/assets/normalizados/ojales.jpg",
+                "img": "../data/assets/normalizados/ojales.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "pernos",
-                "img": "./data/assets/normalizados/pernos.jpg",
+                "img": "../data/assets/normalizados/pernos.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "protecciones electricas",
-                "img": "./data/assets/normalizados/protecciones-electricas.jpg",
+                "img": "../data/assets/normalizados/protecciones-electricas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "seccionadores",
-                "img": "./data/assets/normalizados/seccionadores.jpg",
+                "img": "../data/assets/normalizados/seccionadores.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "tensores",
-                "img": "./data/assets/normalizados/tensores.jpg",
+                "img": "../data/assets/normalizados/tensores.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "tillas",
-                "img": "./data/assets/normalizados/tillas.jpg",
+                "img": "../data/assets/normalizados/tillas.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "varios",
-                "img": "./data/assets/normalizados/varios.jpg",
+                "img": "../data/assets/normalizados/varios.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "yugos",
-                "img": "./data/assets/normalizados/yugos.jpg",
+                "img": "../data/assets/normalizados/yugos.jpg",
                 "link": "#",
                 "categorias":[]
             }
