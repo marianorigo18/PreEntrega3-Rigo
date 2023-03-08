@@ -1436,37 +1436,37 @@
             "categorias": [
             {
                 "title": "terminal-cu",
-                "img": "./data/assets/terminales/terminal-cobre-estanado.jpg",
+                "img": "../data/assets/terminales/terminal-cobre-estanado.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "punteras tubulares",
-                "img": "./data/assets/terminales/tubulares.jpg",
+                "img": "../data/assets/terminales/tubulares.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "terminales preaislados",
-                "img": "./data/assets/terminales/preaislados.jpg",
+                "img": "../data/assets/terminales/preaislados.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "bimetalico forjado",
-                "img": "./data/assets/terminales/bimetalico-forjado.jpg",
+                "img": "../data/assets/terminales/bimetalico-forjado.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "bimetalico",
-                "img": "./data/assets/terminales/bimetalico.jpg",
+                "img": "../data/assets/terminales/bimetalico.jpg",
                 "link": "#",
                 "categorias":[]
             },
             {
                 "title": "aluminio",
-                "img": "./data/assets/terminales/terminal-aluminio.jpg",
+                "img": "../data/assets/terminales/terminal-aluminio.jpg",
                 "link": "#",
                 "categorias":[]
             }
