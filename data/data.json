@@ -1425,7 +1425,42 @@
             "img": "./data/assets/topics/terminales.jpg",
             "link": "./pages/terminales.html",
             "categorias": [
-            {}
+            {
+                "title": "terminal-cu",
+                "img": "./data/assets/terminales/terminal-cobre-estanado.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "punteras tubulares",
+                "img": "./data/assets/terminales/tubulares.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "terminales preaislados",
+                "img": "./data/assets/terminales/preaislados.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "bimetalico forjado",
+                "img": "./data/assets/terminales/bimetalico-forjado.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "bimetalico",
+                "img": "./data/assets/terminales/bimetalico.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "aluminio",
+                "img": "./data/assets/terminales/terminal-aluminio.jpg",
+                "link": "#",
+                "categorias":[]
+            }
             ]
         },
         {
@@ -1433,7 +1468,150 @@
             "img": "./data/assets/topics/normalizadosTwo.jpg",
             "link": "./pages/normalizados.html",
             "categorias": [
-            {}
+            {
+                "title": "abrazaderas",
+                "img": "./data/assets/normalizados/abrazaderas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "accesorios para hilo de guardia",
+                "img": "./data/assets/normalizados/accesorios-p-hilo-de-guardia.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "aisladores de porcelana",
+                "img": "./data/assets/normalizados/aisladores-de-porcelana.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "aisladores polimericos",
+                "img": "./data/assets/normalizados/aisladores-polimericos.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "anclajes",
+                "img": "./data/assets/normalizados/anclajes.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "arandelas",
+                "img": "./data/assets/normalizados/arandelas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "ataduras y amarres",
+                "img": "./data/assets/normalizados/ataduras-y-amarres.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "brazos",
+                "img": "./data/assets/normalizados/brazos.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "bulones",
+                "img": "./data/assets/normalizados/bulones.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "cables",
+                "img": "./data/assets/normalizados/cables.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "chapas",
+                "img": "./data/assets/normalizados/crusetas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "elementos de cadena",
+                "img": "./data/assets/normalizados/elementos-de-cadena.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "guardacabos",
+                "img": "./data/assets/normalizados/guardacabo.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "jabalinas",
+                "img": "./data/assets/normalizados/jabalinas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "mensulas y morsas",
+                "img": "./data/assets/normalizados/mensulas-y-morsas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "morcetos, conectores y grampas",
+                "img": "./data/assets/normalizados/morcetos-conectores-y-grampas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "ojales",
+                "img": "./data/assets/normalizados/ojales.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "pernos",
+                "img": "./data/assets/normalizados/pernos.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "protecciones electricas",
+                "img": "./data/assets/normalizados/protecciones-electricas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "seccionadores",
+                "img": "./data/assets/normalizados/seccionadores.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "tensores",
+                "img": "./data/assets/normalizados/tensores.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "tillas",
+                "img": "./data/assets/normalizados/tillas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "varios",
+                "img": "./data/assets/normalizados/varios.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "yugos",
+                "img": "./data/assets/normalizados/yugos.jpg",
+                "link": "#",
+                "categorias":[]
+            }
             ]
         },
         {
@@ -1449,7 +1627,41 @@
             "img": "./data/assets/topics/aereo.jpg",
             "link": "./pages/aereo.html",
             "categorias": [
-            {}
+            {
+                "id": "",
+                "title": "pkd-14",
+                "img": "../data/assets/aereo/pkd-14.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkd-16",
+                "img": "../data/assets/aereo/pkd-16.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkd-31",
+                "img": "../data/assets/aereo/pkd-31.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkd-20",
+                "img": "../data/assets/aereo/pkd20.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkr-20",
+                "img": "../data/assets/aereo/pkr20.jpg"
+            },
+            {
+                "id": "",
+                "title": "pks-10 cf",
+                "img": "../data/assets/aereo/pks-10cf.jpg"
+            },
+            {
+                "id": "",
+                "title": "preensamblado",
+                "img": "../data/assets/aereo/preensamblado.jpg"
+            }
             ]
         },
         {
@@ -1457,7 +1669,61 @@
             "img": "./data/assets/topics/emergencia.jpg",
             "link": "./pages/emergencia.html",
             "categorias": [
-            {}
+            {
+                "id": "",
+                "title": "baw 30 leds 2",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-30-leds-two.jpg"
+            },
+            {
+                "id": "",
+                "title": "baw 30 leds",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-30-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "baw 60 leds 2",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-60-leds-two.jpg"
+            },
+            {
+                "id": "",
+                "title": "baw 60 leds",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-60-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "atomlux 2020",
+                "img": "../data/assets/luz-emergencia/emergencia-atomlux-2020.jpg"
+            },
+            {
+                "id": "",
+                "title": "atomlux 2045",
+                "img": "../data/assets/luz-emergencia/emergencia-atomlux-2045.jpg"
+            },
+            {
+                "id": "",
+                "title": "atomlux alto brillo",
+                "img": "../data/assets/luz-emergencia/emergencia-atomlux-alto-brillo.jpg"
+            },
+            {
+                "id": "",
+                "title": "idoler 30 leds",
+                "img": "../data/assets/luz-emergencia/idoler-emergencia-30-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "idoler 60 leds",
+                "img": "../data/assets/luz-emergencia/idoler-emergencia-60-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "macroled 90 leds",
+                "img": "../data/assets/luz-emergencia/macroled-emergencia-90-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "tbcin 15w",
+                "img": "../data/assets/luz-emergencia/tbcin-autonoma-15.jpg"
+            }
             ]
         },
         {
@@ -1465,7 +1731,90 @@
             "img": "./data/assets/topics/morceteria.jpg",
             "link": "./pages/morceteria.html",
             "categorias": [
-            {}
+            {
+                "title": "conector diente tipo peine",
+                "img": "../data/assets/morceteria/conector-diente-tipo-peine.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "conector pat",
+                "img": "../data/assets/morceteria/conector-pat.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "grampa fijacion 3 bulones",
+                "img": "../data/assets/morceteria/grampa-fijacion-3-bulones.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "grampa fijacion mn200",
+                "img": "../data/assets/morceteria/grampa-fijacion-mn200.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "grampa prensacable",
+                "img": "../data/assets/morceteria/grampa-prensacables.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto 2 bulones",
+                "img": "../data/assets/morceteria/morceto-2-bulones.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto 3 bulones",
+                "img": "../data/assets/morceteria/morceto-3-bulones.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo gpa1 gpb1",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-gpa1-gpb1.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo gpa2 gpa3 gpa4",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-gpa2-gpa3-gpa4.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo gpb2 gpb3 gpb4",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-gpa2-gpa3-gpa4.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpa1 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpa1-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpa2 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpa2-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpb1 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpb1-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpb2 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpb2-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            }
             ]
         }
     ]
