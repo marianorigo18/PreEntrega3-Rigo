@@ -355,111 +355,116 @@
                 {
                     "title" :"faroles",
                     "img": "../data/assets/iluminacion/faroles.jpg",
-                    "link": "#",
+                    "link": "../subpages/faroles.html",
                     "categorias": [
                         {
                             "title": "faroles trapezoidales",
-                            "img": "",
-                            "link": "#",
+                            "img": "../data/assets/faroles-trapezoidal/5500.jpg",
+                            "link": "../subpages/faroles-trapezoidal.html",
                             "categorias": [
                                 {
                                 "id": 54,
                                 "title": "farol trapezoidal 5500",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5500.jpg"
                                 },
                                 {
                                 "id": 55,
                                 "title": "farol trapezoidal 5510",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5510.jpg"
                                 },
                                 {
                                 "id": 56,
                                 "title": "farol trapezoidal 5512",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5512.jpg"
                                 },
                                 {
                                 "id": 57,
                                 "title": "farol trapezoidal 5513",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5513.jpg"
                                 },
                                 {
                                 "id": 58,
                                 "title": "farol trapezoidal 5514",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5514.jpg"
                                 },
                                 {
                                 "id": 59,
                                 "title": "farol trapezoidal 5516",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5516.jpg"
                                 },
                                 {
                                 "id": 60,
                                 "title": "farol trapezoidal 5518",
-                                "img": ""
+                                "img": "../data/assets/faroles-trapezoidal/5518.jpg"
                                 }
                             ]
                         },
                         {
                             "title": "faroles exagonales",
-                            "img": "",
-                            "link": "#",
+                            "img": "../data/assets/faroles-exagonales/5530.jpg",
+                            "link": "../subpages/faroles-exagonales.html",
                             "categorias": [
                                 {
                                     "id": 61,
                                     "title":"farol exagonal 5530",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-exagonales/5530.jpg"
                                 },
                                 {
                                     "id": 62,
                                     "title": "farol exagonal 5532",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-exagonales/5532.jpg"
                                 },
                                 {
                                     "id": 62,
                                     "title": "farol exagonal 5533",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-exagonales/5533.jpg"
                                 },
                                 {
                                     "id": 63,
                                     "title": "farol exagonal 5536",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-exagonales/5536.jpg"
                                 },
                                 {
                                     "id": 64,
                                     "title": "farol exagonal 5537",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-exagonales/5537.jpg"
                                 },
                                 {
                                     "id": 65,
                                     "title": "farol exagonal 5538",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-exagonales/5538.jpg"
                                 }
                             ]
                         },
                         {
                             "title": "faroles rectos",
-                            "img": "",
-                            "link": "#",
+                            "img": "../data/assets/faroles-rectos/5505.jpg",
+                            "link": "../subpages/faroles-rectos.html",
                             "categorias": [
                                 {
                                     "id": 66,
                                     "title": "farol recto 5505",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-rectos/5505.jpg"
                                 },
                                 {
                                     "id": 67,
                                     "title": "farol recto 5520",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-rectos/5520.jpg"
                                 },
                                 {
                                     "id": 68,
                                     "title": "farol recto 5522",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-rectos/5522.jpg"
                                 },
                                 {
                                     "id": 69,
                                     "title": "farol recto 5523",
-                                    "img": ""
+                                    "img": "../data/assets/faroles-rectos/5523.jpg"
+                                },
+                                {
+                                    "id": 694,
+                                    "title": "farol recto 5524",
+                                    "img": "../data/assets/faroles-rectos/5524.jpg"
                                 }
                             ]
                         }
