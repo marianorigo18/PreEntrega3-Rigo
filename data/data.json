@@ -98,31 +98,6 @@
                                 "img": ""
                             },
                             {
-                                "id": 16,
-                                "title": "fridge 1.8w",
-                                "img": ""
-                            },
-                            {
-                                "id": 17,
-                                "title": "fridge 4w"
-                            },
-                            {
-                                "id": 18,
-                                "title": "gota g45 6w e-14",
-                                "img": ""
-                            },
-                            {
-                                "id": 19,
-                                "title": "gota g45 6w e-27",
-                                "img": ""
-                            },
-                            {
-                                "id": 20,
-                                "title": "vela c37 6w e-14",
-                                "img": ""
-
-                            },
-                            {
                                 "id": 21,
                                 "title": "vela c37 6w e-27",
                                 "img": ""
@@ -146,6 +121,29 @@
                         "link": "#",
                         "categorias": [
                             {
+                                "id": 16,
+                                "title": "fridge 1.8w",
+                                "img": ""
+                            },
+                            {
+                                "id": 17,
+                                "title": "fridge 4w"
+                            },
+                            {
+                                "id": 18,
+                                "title": "gota g45 6w e-14",
+                                "img": ""
+                            },
+                            {
+                                "id": 19,
+                                "title": "gota g45 6w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 20,
+                                "title": "vela c37 6w e-14",
+                                "img": ""
+
                             }
                         ]
                     },
@@ -220,7 +218,7 @@
                     },
                     {
                         "title": "golponeras",
-                        "img": "../data/assets/lamparas/arr11.jpg",
+                        "img": "../data/assets/lamparas/potentee27.jpg",
                         "link": "#",
                         "categorias": [
                             {

@@ -5,6 +5,7 @@ const data = await response.json();
 showData(data.categorias[0].categorias[0].categorias);
 }
 const containerCard = document.querySelector('#container__cards');
+
 function showData(data){
     data.forEach( elemet => {
         const contenedorCard = document.createElement('div');
@@ -24,3 +25,4 @@ function showData(data){
     })
     
 }
+
