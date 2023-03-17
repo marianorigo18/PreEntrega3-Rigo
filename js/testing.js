@@ -1,6 +1,6 @@
 getData();
 async function getData(){
-const response = await fetch('http://127.0.0.1:5501/data/data.json'||'https://marianorigo18.github.io/PreEntrega3-Rigo/data/data.json');
+const response = await fetch('https://marianorigo18.github.io/PreEntrega3-Rigo/data/data.json');
 const data = await response.json();
 showData(data.categorias[7].categorias);
 }
