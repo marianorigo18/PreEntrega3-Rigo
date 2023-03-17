@@ -10,6 +10,53 @@
                     "img": "../data/assets/iluminacion/lamparas-vintage.jpg",
                     "link": "../subpages/lamparas.html",
                     "categorias": [
+                        {
+                            "title": "golponeras",
+                            "img": "../data/assets/lamparas/potentee27.jpg",
+                            "link": "#",
+                            "categorias": [
+                                {
+                                    "id": 34,
+                                    "title": "bulbon 19w e-27",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 35,
+                                    "title": "bulbon 28w e-27",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 36,
+                                    "title": "bulbon 38w e-27",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 37,
+                                    "title": "bulbon 48w e-27",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 38,
+                                    "title": "hightpower 60w e-40",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 39,
+                                    "title": "hightpower 90w e-40",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 40,
+                                    "title": "magnolia 40w e-40",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 41,
+                                    "title": "magnolia 60w e-40",
+                                    "img": ""
+                                }
+                            ]
+                        },
                     {
                         "title": "vintage",
                         "img": "../data/assets/lamparas/vintage.jpg",
@@ -217,53 +264,6 @@
                         ]
                     },
                     {
-                        "title": "golponeras",
-                        "img": "../data/assets/lamparas/potentee27.jpg",
-                        "link": "#",
-                        "categorias": [
-                            {
-                                "id": 34,
-                                "title": "bulbon 19w e-27",
-                                "img": ""
-                            },
-                            {
-                                "id": 35,
-                                "title": "bulbon 28w e-27",
-                                "img": ""
-                            },
-                            {
-                                "id": 36,
-                                "title": "bulbon 38w e-27",
-                                "img": ""
-                            },
-                            {
-                                "id": 37,
-                                "title": "bulbon 48w e-27",
-                                "img": ""
-                            },
-                            {
-                                "id": 38,
-                                "title": "hightpower 60w e-40",
-                                "img": ""
-                            },
-                            {
-                                "id": 39,
-                                "title": "hightpower 90w e-40",
-                                "img": ""
-                            },
-                            {
-                                "id": 40,
-                                "title": "magnolia 40w e-40",
-                                "img": ""
-                            },
-                            {
-                                "id": 41,
-                                "title": "magnolia 60w e-40",
-                                "img": ""
-                            }
-                        ]
-                    },
-                    {
                         "title": "bi-pin",
                         "img": "../data/assets/lamparas/bipinplano.jpg",
                         "link": "#",
@@ -347,6 +347,13 @@
                                 "img": "",
                                 "variante": ["frio", "calido"]
                             }
+                        ]
+                    },
+                    {
+                        "title": "arr 11",
+                        "img": "../data/assets/lamparas/arr11.jpg",
+                        "link": "#",
+                        "categorias": [
                         ]
                     }
                 ]},
