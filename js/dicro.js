@@ -2,9 +2,8 @@ getData();
 async function getData(){
 const response = await fetch('http://127.0.0.1:5501/data/data.json' || 'https://marianorigo18.github.io/PreEntrega3-Rigo/data/data.json');
 const data = await response.json();
-showData(data.categorias[0].categorias);
+showData(data.categorias[0].categorias[0].categorias[4].categorias);
 }
-
 const containerCard = document.querySelector('#container__cards');
 
 function showData(data){
@@ -14,15 +13,16 @@ function showData(data){
     
         contenedorCard.innerHTML = `
         <div class="card__product card-body">
-            <a href="${elemet.link}">
-                <img class="card-img-top" src="${elemet.img}" alt="${elemet.title}">
-                <div>
-                    <h5 class="card-title text-center mt-3 text-black-50 text-uppercase fs-6 fw-normal py-3">${elemet.title}</h5>
-                </div>
-            </a>
+        <a href="${elemet.link}">
+            <img class="card-img-top" src="${elemet.img}" alt="${elemet.title}">
+            <div>
+                <h5 class="card-title text-center mt-3 text-black-50 text-uppercase fs-6 fw-normal py-3">${elemet.title}</h5>
+            </div>
+        <a>    
         </div>
         `
         containerCard.appendChild(contenedorCard)
     })
+    
 }
 

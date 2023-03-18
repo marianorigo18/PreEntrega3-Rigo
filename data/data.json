@@ -13,47 +13,52 @@
                         {
                             "title": "golponeras",
                             "img": "../data/assets/lamparas/potentee27.jpg",
-                            "link": "#",
+                            "link": "../subpages/bulbones.html",
                             "categorias": [
                                 {
                                     "id": 34,
                                     "title": "bulbon 19w e-27",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/bulbon20we27.png"
                                 },
                                 {
                                     "id": 35,
                                     "title": "bulbon 28w e-27",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/bulbon30we27.png"
                                 },
                                 {
                                     "id": 36,
                                     "title": "bulbon 38w e-27",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/bulbon40we27.png"
                                 },
                                 {
                                     "id": 37,
                                     "title": "bulbon 48w e-27",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/bulbon40we27.png"
                                 },
                                 {
                                     "id": 38,
                                     "title": "hightpower 60w e-40",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/bulbon60we40.png"
                                 },
                                 {
                                     "id": 39,
                                     "title": "hightpower 90w e-40",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/bulbon90we40.png"
                                 },
                                 {
                                     "id": 40,
                                     "title": "magnolia 40w e-40",
-                                    "img": ""
+                                    "img": "../data/assets/bulbones/magnolia40we40.png"
                                 },
                                 {
                                     "id": 41,
-                                    "title": "magnolia 60w e-40",
-                                    "img": ""
+                                    "title": "magnolia 40w e-27",
+                                    "img": "../data/assets/bulbones/magnolia40we27.png"
+                                },
+                                {
+                                    "id": 4141,
+                                    "title": "magnolia 80w e-40",
+                                    "img": "../data/assets/bulbones/magnolia80we40.png"
                                 }
                             ]
                         },
@@ -122,74 +127,75 @@
                     {
                         "title": "bulbos",
                         "img": "../data/assets/lamparas/lamparaled.jpg",
-                        "link": "#",
+                        "link": "../subpages/bulbos.html",
                         "categorias": [
                             {
                                 "id": 12,
                                 "title": "bulbo 7w",
-                                "img": ""
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
                             },
                             {
                                 "id": 13,
                                 "title": "bulbo 10w",
-                                "img": ""
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
                             },
                             {
                                 "id": 14,
                                 "title": "bulbo 12w",
-                                "img": ""
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
                             },
                             {
                                 "id": 15,
                                 "title": "bulbo 15w",
-                                "img": ""
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
                             },
                             {
                                 "id": 21,
                                 "title": "vela c37 6w e-27",
-                                "img": ""
+                                "img": "../data/assets/bulbos/velac376w.png"
 
+                            },
+                            {
+                                "id": 19,
+                                "title": "gota g45 6w e-27",
+                                "img": "../data/assets/e-14/gotag456we14.png"
                             },
                             {
                                 "id": 22,
                                 "title": "globo g95 14w",
-                                "img": ""
+                                "img": "../data/assets/bulbos/globog9514w.png"
                             },
                             {
                                 "id": 23,
                                 "title": "globo g95 18w",
-                                "img": ""
+                                "img": "../data/assets/bulbos/globog12018w.png"
                             }
                         ]
                     },
                     {
                         "title": "e-14",
                         "img": "../data/assets/lamparas/e14heladera.jpg",
-                        "link": "#",
+                        "link": "../subpages/lamparas-e14.html",
                         "categorias": [
                             {
                                 "id": 16,
                                 "title": "fridge 1.8w",
-                                "img": ""
+                                "img": "../data/assets/e-14/fridge18we14.png"
                             },
                             {
                                 "id": 17,
-                                "title": "fridge 4w"
+                                "title": "fridge 4w",
+                                "img": "../data/assets/e-14/fridge18we14.png"
                             },
                             {
                                 "id": 18,
                                 "title": "gota g45 6w e-14",
-                                "img": ""
-                            },
-                            {
-                                "id": 19,
-                                "title": "gota g45 6w e-27",
-                                "img": ""
+                                "img": "../data/assets/e-14/gotag456we14.png"
                             },
                             {
                                 "id": 20,
                                 "title": "vela c37 6w e-14",
-                                "img": ""
+                                "img": "../data/assets/e-14/velac376we14.png"
 
                             }
                         ]
@@ -197,27 +203,27 @@
                     {
                         "title": "dicroicas",
                         "img": "../data/assets/lamparas/dicroica.jpg",
-                        "link": "#",
+                        "link": "../subpages/dicroicas.html",
                         "categorias": [
                             {
                                 "id": 24,
                                 "title": "dicro pvc 5w",
-                                "img": ""
+                                "img": "../data/assets/dicro/dicropvc5w.png"
                             },
                             {
                                 "id": 25,
                                 "title": "drico blanca 7w",
-                                "img": ""
+                                "img": "../data/assets/dicro/dricoblanca7w.png"
                             },
                             {
                                 "id": 26,
                                 "title": "drico dimerizable 7w",
-                                "img": ""
+                                "img": "../data/assets/dicro/dricoblanca7w.png"
                             },
                             {
                                 "id": 27,
                                 "title": "dricro negra 7w",
-                                "img": ""
+                                "img": "../data/assets/dicro/dricronegra7w.png"
                             }
                         ]
                     },
