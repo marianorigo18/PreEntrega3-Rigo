@@ -13,7 +13,7 @@ function showData(data){
     
         contenedorCard.innerHTML = `
         <div class="card__product card-body">
-            <img class="card-img-top" src="${elemet.img}" alt="${elemet.title}">
+            <img class="card-img-top p-10" src="${elemet.img}" alt="${elemet.title}">
             <div>
                 <h5 class="card-title text-center mt-3 text-black-50 text-uppercase fs-6 fw-normal py-3">${elemet.title}</h5>
             </div>

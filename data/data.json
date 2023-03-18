@@ -230,42 +230,42 @@
                     {
                         "title": "gota",
                         "img": "../data/assets/lamparas/gotafilamento.jpg",
-                        "link": "#",
+                        "link": "../subpages/gota.html",
                         "categorias": [
                             {
                                 "id": 28,
                                 "title": "gota s14 1w azul",
-                                "img": ""
+                                "img": "../data/assets/gotas/s141wazul.png"
                             },
                             {
                                 "id": 29,
                                 "title": "gota s14 1w rojo",
-                                "img": ""
+                                "img": "../data/assets/gotas/s141wrojo.png"
                             },
                             {
                                 "id": 30,
                                 "title":"gota s14 1w verde",
-                                "img": ""
+                                "img": "../data/assets/gotas/s141wverde.png"
                             },
                             {
                                 "id": 31,
                                 "title": "gota s14 1w amarillo",
-                                "img": ""
+                                "img": "../data/assets/gotas/s141wamarillo.png"
                             },
                             {
                                 "id": 31,
                                 "title": "gota s14 deco 1w",
-                                "img": ""
+                                "img": "../data/assets/gotas/gotas14065w.png"
                             },
                             {
                                 "id": 32,
                                 "title": "gota calida 6w",
-                                "img": ""
+                                "img": "../data/assets/gotas/gota-led.jpg"
                             },
                             {
                                 "id": 33,
                                 "title": "gota fria 6w",
-                                "img": ""
+                                "img": "../data/assets/gotas/gota-led.jpg"
                             }
                         ]
                     },
