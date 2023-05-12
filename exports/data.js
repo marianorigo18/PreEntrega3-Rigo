@@ -121,7 +121,7 @@ export const industriaT = [
   },
   {
     id: 2,
-    img: "../assets/industria/motores.jpg",
+    img: "../assets/industria/motor-czerweny.jpg",
     title: "motores",
   },
   {
